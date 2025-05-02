@@ -1,0 +1,12 @@
+Detection 1:
+  Symbol: swastika
+  Style: hand_drawn_thick
+  Position: (549, 345, 51x51)
+  Confidence: 0.812
+
+Detection 2:
+  Symbol: swastika
+  Style: hand_drawn_thick
+  Position: (914, 342, 51x51)
+  Confidence: 0.801
+
