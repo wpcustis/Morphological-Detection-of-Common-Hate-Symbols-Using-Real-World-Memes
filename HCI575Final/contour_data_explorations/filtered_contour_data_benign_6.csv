@@ -1,0 +1,5 @@
+Index,Area,Perimeter,Approx_Vertices,BoundingBox_X,BoundingBox_Y,BoundingBox_W,BoundingBox_H,Aspect_Ratio,Centroid_X,Centroid_Y,Is_Convex,ConvexHull_Points
+0,231.0,57.94112479686737,17,160,252,19,19,1.0,168,261,0,17
+1,588.5,243.03657793998718,21,240,197,33,32,1.03,255,212,0,19
+2,1037.0,296.4507908821106,19,128,33,64,55,1.16,165,53,0,15
+3,138.5,78.5269113779068,17,102,0,22,20,1.1,111,11,0,10

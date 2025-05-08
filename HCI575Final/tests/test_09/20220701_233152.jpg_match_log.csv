@@ -1,0 +1,3 @@
+index,match_found,shape_score,template_score,composite_score,confirm_method
+0,False,0.13466521971631554,0.5178222060203552,0.30842150684798014,
+1,True,0.008682550881360109,-99,-99,shape
